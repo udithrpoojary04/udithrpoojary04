@@ -1,6 +1,6 @@
 ## ⭐ About Me
 
-🎓 MCA Student passionate about software development  
+🎓 MCA Student passionate about software development   
 💻 Full Stack Developer working with **MERN Stack and Django**    
  
 🚀 Developing web applications using **React, Node.js, and MongoDB**     
