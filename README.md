@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel) 
 
 
 ---
