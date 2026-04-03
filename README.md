@@ -5,7 +5,7 @@
  
 🚀 Developing web applications using **React, Node.js, and MongoDB**       
 🐍 Exploring backend development with **Python, Django, and PostgreSQL**     
-🧠 Improving problem-solving skills through **Data Structures and Algorithms**
+🧠 Improving problem-solving skills through **Data Structures and Algorithms** 
 
 ✨ Interested in building scalable applications and learning new technologies.
 
