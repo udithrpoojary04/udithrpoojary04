@@ -60,12 +60,5 @@ Here are some ideas to get you started:
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udithrpoojary04&theme=tokyo-night)
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=udithrpoojary04&theme=react-dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=udithrpoojary04&theme=dark)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=udithrpoojary04&show_icons=true&theme=tokyonight)
 
 ---
