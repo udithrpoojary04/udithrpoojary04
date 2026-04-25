@@ -7,7 +7,7 @@
 🐍 Exploring backend development with **Python, Django, and PostgreSQL**
 🧠 Improving problem-solving skills through **Data Structures and Algorithms** 
 
-✨ Interested in building scalable applications and learning new technologies.
+✨ Interested in building scalable applications and learning new technologies. 
 
 <!--
 **udithrpoojary04/udithrpoojary04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
