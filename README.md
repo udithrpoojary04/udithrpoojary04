@@ -3,7 +3,7 @@
 🎓 MCA Student passionate about software development    
 💻 Full Stack Developer working with **MERN Stack and Django** 
  
-🚀 Developing web applications using **React, Node.js, and MongoDB**       
+🚀 Developing web applications using **React, Node.js, and MongoDB**        
 🐍 Exploring backend development with **Python, Django, and PostgreSQL**
 🧠 Improving problem-solving skills through **Data Structures and Algorithms** 
 
