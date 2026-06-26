@@ -1,3 +1,14 @@
+<div align="center">
+
+<img src="./banner.png" width="100%" />
+
+<h1>Hi, I'm Udith 👋</h1>
+<h3>Full Stack Developer | Java | Spring Boot</h3>
+
+</div>
+
+
+
 ## ⭐ About Me
 
 🎓 MCA Student passionate about software development    
