@@ -10,7 +10,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:41295a,50:2F0743,100:8E2DE2&height=250&section=header&text=Udith%20R%20Poojary&fontSize=60&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,50:71B280,100:A8E063&height=250&section=header&text=Udith%20R%20Poojary&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React" />
 
