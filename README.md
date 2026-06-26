@@ -12,7 +12,7 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React" /> -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Java+%7C+Spring+Boot+%7C+React;MCA+Student+%7C+Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Java+%7C+Spring+Boot+%7C+React;Full+Stack+Developer" />
 </div>
 
 
