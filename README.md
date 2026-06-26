@@ -12,7 +12,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Udith%20R%20Poojary&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=udithrpoojary04&show_icons=true&theme=tokyonight)
 
 
 
