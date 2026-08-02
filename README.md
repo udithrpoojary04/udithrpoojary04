@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=udithrpoojary04&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udithrpoojary04&theme=tokyonight)
 
 
 
