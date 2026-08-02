@@ -64,10 +64,9 @@ Here are some ideas to get you started:
 
 
 ---
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
-![Udith R Poojary's GitHub stats](https://github-readme-stats.vercel.app/api?username=udithrpoojary04&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udithrpoojary04&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 
 
