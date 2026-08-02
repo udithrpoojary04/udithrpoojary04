@@ -63,12 +63,13 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
+<!--
 ---
 ## 📊 GitHub Stats
 
 ##  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udithrpoojary04&theme=tokyonight)
 
-
+-->
 
 ---
 
