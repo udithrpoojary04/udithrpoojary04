@@ -5,7 +5,7 @@
 <h1>Hi, I'm Udith 👋</h1> 
 <h3>Full Stack Developer | Java | Spring Boot</h3> 
 
-</div> -->
+</div> --> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,50:71B280,100:A8E063&height=250&section=header&text=Udith%20R%20Poojary&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
