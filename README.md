@@ -12,7 +12,7 @@
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React" /> -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Java+%7C+Spring+Boot+%7C+React;Full+Stack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Java+%7C+Spring+Boot+%7C+React.js;Full+Stack+Developer" />
 </div>
 
 
@@ -21,7 +21,7 @@
 🎓 MCA Student passionate about software development    
 💻 Full Stack Developer working with **MERN Stack and Java** 
  
-🚀 Developing web applications using **React, Node.js, and MongoDB**
+🚀 Developing web applications using **React.js, Node.js, and MongoDB**
 
 🐍 Exploring backend development with **Java, Spring Boot, and MySQL**  
 🧠 Improving problem-solving skills through **Data Structures and Algorithms** 
